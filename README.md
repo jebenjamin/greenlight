@@ -1,2 +1,2 @@
-# greenlight
-A Python image filter
+# Greenlight
+A Python image filter and resize utility.
