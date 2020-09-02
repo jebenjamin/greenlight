@@ -1,2 +1,2 @@
 # Greenlight
-A Python image filter and resize utility.
+A Swift image filter and resize utility.
